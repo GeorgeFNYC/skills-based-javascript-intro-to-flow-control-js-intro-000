@@ -53,4 +53,4 @@ function switchAge(age) {
       return "You have an age"
   }
 }
-let number = [19, 'sorry', 'you/re old']
+
